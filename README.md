@@ -1,6 +1,8 @@
 # isitsafe-cucumber-test
 A simple test for scared web developers who no longer dare watch the news. Check if it's safe to go outside.
 
+Also, it provides a basic understanding of BDD testing with Cucumber and Webdriver.io
+
 ## install
 `npm install`
 
