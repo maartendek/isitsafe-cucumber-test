@@ -10,5 +10,5 @@ Also, it provides a basic understanding of BDD testing with Cucumber and Webdriv
 `npm run isitsafe`
 
 ### Trouble?
-node v12.3 might give trouble. Try switching to a lower version
+node v12.16.3 might give trouble. Try switching to a lower version (v10 works) 
 Help is appreciated
