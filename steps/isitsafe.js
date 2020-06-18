@@ -19,7 +19,6 @@ Then(/^"(.*)" will tell you if it\'s safe to go out$/, (site) => {
     const headlineText = headline.getText().toLowerCase();
     if (headlineText && headlineText.includes('corona')) {
       safe = false;
-      break;
     }
   });
 
