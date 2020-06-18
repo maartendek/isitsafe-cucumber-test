@@ -5,6 +5,9 @@ Given(/^the browser is at the "(.*)" website$/, (site) => {
   browser.url(site);
 });
 
+When("the user tries to skim the headlines", () => {
+  // do nothing
+});
 
 Then(/^"(.*)" will tell you if it\'s safe to go out$/, (site) => {
 
